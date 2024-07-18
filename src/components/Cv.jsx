@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import cv from "../assets/CV.pdf";
+import cv from "../assets/Resume Lahiru_Sandaruwan.pdf";
 import { SectionWrapper } from "../hoc";
 
 const Cv = () => {
